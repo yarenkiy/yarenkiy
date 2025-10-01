@@ -42,7 +42,7 @@ Recent Computer Engineering graduate with strong focus on full-stack development
 ## 🚧 Projects in Development
 
 <p align="center">
-  <a href="https://github.com/yarenk/SplitPay" target="_blank">
+  <a href="https://github.com/yarenkiy/SplitPay" target="_blank">
     <img src="https://img.shields.io/badge/SplitPay-ReactNative-yellow?style=flat" alt="SplitPay In Progress" height="30">
   </a>
   <p align="center"><em>Currently under development</em></p>
