@@ -38,21 +38,13 @@ Recent Computer Engineering graduate with strong focus on full-stack development
   <img src="https://img.shields.io/badge/JDBC-%23A52A2A?style=flat&logoColor=white" height="30"/>
 </p>
 
----
-
-## 🚀 Featured Projects
+---## 🚧 Projects in Development
 
 <p align="center">
- 
-  <a href="https://github.com/yarenkiy/SplitPay" target="_blank">
-    <img src="https://img.shields.io/badge/SplitPay-React%2F" alt="SplitPay" height="30">
+  <a href="https://github.com/yarenk/SplitPay" target="_blank">
+    <img src="https://img.shields.io/badge/SplitPay-ReactNative-yellow?style=flat" alt="SplitPay In Progress" height="30">
   </a>
-  <a href="https://github.com/yarenkiy/LibraryManagementWeb" target="_blank">
-    <img src="https://img.shields.io/badge/LibraryWeb-C%23%2FMVC-orange" alt="Library Management Web" height="30">
-  </a>
-  <a href="https://github.com/yarenkiy/LibraryManagementDesktop" target="_blank">
-    <img src="https://img.shields.io/badge/LibraryDesktop-Java%2FJavaFX-red" alt="Library Management Desktop" height="30">
-  </a>
+  <p align="center"><em>Currently under development</em></p>
 </p>
 
 ---
