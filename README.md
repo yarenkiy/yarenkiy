@@ -38,7 +38,8 @@ Recent Computer Engineering graduate with strong focus on full-stack development
   <img src="https://img.shields.io/badge/JDBC-%23A52A2A?style=flat&logoColor=white" height="30"/>
 </p>
 
----## 🚧 Projects in Development
+---
+## 🚧 Projects in Development
 
 <p align="center">
   <a href="https://github.com/yarenk/SplitPay" target="_blank">
