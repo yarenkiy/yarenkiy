@@ -31,7 +31,7 @@ Recent Computer Engineering graduate with strong focus on full-stack development
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/MS SQL-%230072C6?style=flat&logo=microsoft-sql-server&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat&logo=rabbitmq&logoColor=white" height="30"/>
+ 
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Node.js-%339933?style=flat&logo=node.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/JavaFX-%23007ACC?style=flat&logoColor=white" height="30"/>
@@ -45,7 +45,7 @@ Recent Computer Engineering graduate with strong focus on full-stack development
 <p align="center">
  
   <a href="https://github.com/yarenkiy/SplitPay" target="_blank">
-    <img src="https://img.shields.io/badge/SplitPay-React%2F.NET-blue" alt="SplitPay" height="30">
+    <img src="https://img.shields.io/badge/SplitPay-React%2F" alt="SplitPay" height="30">
   </a>
   <a href="https://github.com/yarenkiy/LibraryManagementWeb" target="_blank">
     <img src="https://img.shields.io/badge/LibraryWeb-C%23%2FMVC-orange" alt="Library Management Web" height="30">
