@@ -1,78 +1,71 @@
-<p align="center">
-  <strong>Hi 👋, I'm Yaren</strong>
-</p>
+<h1 align="center">Hi 👋, I'm Yaren</h1>
+<h3 align="center">💻 Computer Engineer | Backend & Full-Stack Developer</h3>
 
-<p align="center">
-  Recent Computer Engineering graduate from Işık University | Backend & Full-Stack Developer
-</p>
+
 
 ---
 
-## 💼 Summary
-Recent Computer Engineering graduate with strong focus on full-stack development. Skilled in **Java, React, .NET**, and modern JavaScript frameworks. Experienced in building scalable applications with hands-on knowledge of software architecture, problem-solving, and teamwork.
+### 🧩 About Me
+🚀 Passionate about **building scalable, efficient, and maintainable applications**  
+🎓 Computer Engineering graduate from **Işık University**  
+💡 Focused on **Java, .NET, React, and modern JavaScript frameworks**  
+🌱 Currently developing **SplitPay**, a shared expense tracking system  
 
 ---
 
-## 🔭 Current Work & Learning
-- 🔭 Currently working on **SplitPay** project (shared expense tracking system).  
-- 💡 Passionate about building **efficient, scalable, and maintainable applications**  
-
----
-
-## 🛠 Skills & Tools
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=61DAFB" height="30"/>
-  <img src="https://img.shields.io/badge/ReactNative-%2361DAFB?style=flat&logo=react&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/.NET-%23512BD4?style=flat&logo=dotnet&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/MS SQL-%230072C6?style=flat&logo=microsoft-sql-server&logoColor=white" height="30"/>
- 
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Node.js-%339933?style=flat&logo=node.js&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaFX-%23007ACC?style=flat&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JDBC-%23A52A2A?style=flat&logoColor=white" height="30"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,react,reactnative,js,html,css,nodejs,mysql,postman" />
 </p>
 
 ---
-## 🚧 Projects in Development
+
+### 🛠 Tools & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaFX-007ACC?style=for-the-badge&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JDBC-A52A2A?style=for-the-badge&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"/>
+</p>
+
+---
+
+### 🚧 Current Projects
 
 <p align="center">
   <a href="https://github.com/yarenkiy/SplitPay" target="_blank">
-    <img src="https://img.shields.io/badge/SplitPay-ReactNative-yellow?style=flat" alt="SplitPay In Progress" height="30">
+    <img src="https://img.shields.io/badge/SplitPay%20🚧-ReactNative-yellow?style=for-the-badge" alt="SplitPay In Progress">
   </a>
-  <p align="center"><em>Currently under development</em></p>
+</p>
+<p align="center"><em>Currently under active development — Shared Expense Tracking System</em></p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yarenkiy&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenkiy&layout=compact&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yarenkiy&theme=radical&hide_border=false" width="50%" />
 </p>
 
 ---
 
-## 🖥️ GitHub Stats
+### 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yarenkiy&show_icons=true&count_private=true&hide_title=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenkiy&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarenkiy&theme=radical" width="50%" />
+  <a href="mailto:yarennkiy@outlook.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yaren-kiy/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/yarenkiy"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 🤝 Connect with Me
-
 <p align="center">
-  <a href="mailto:yarennkiy@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yaren-kiy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yarenkiy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <em>✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</em>
 </p>
