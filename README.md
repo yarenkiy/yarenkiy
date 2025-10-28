@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Yaren</h1>
-<h3 align="center">💻 Computer Engineer | Backend & Full-Stack Developer</h3>
-
-
+<h3 align="center">💻 Computer Engineer | Backend & Full-Stack Developer | Aspiring Data Scientist</h3>
 
 ---
 
 ### 🧩 About Me
-🚀 Passionate about **building scalable, efficient, and maintainable applications**  
-🎓 Computer Engineering graduate from **Işık University**  
-💡 Focused on **Java, .NET, React, and modern JavaScript frameworks**  
-🌱 Currently developing **SplitPay**, a shared expense tracking system  
+<p align="center">
+🚀 Passionate about <b>building scalable, efficient, and maintainable applications</b><br>
+🎓 Computer Engineering graduate from <b>Işık University</b><br>
+💡 Focused on <b>Java, Python, .NET, React, and modern JS frameworks</b><br>
+🌱 Currently developing <b>SplitPay</b> and <b>learning Data Science</b>
+</p>
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,react,reactnative,js,html,css,nodejs,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,dotnet,react,reactnative,js,html,css,nodejs,mysql,postman" />
 </p>
 
 ---
@@ -43,16 +43,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yarenkiy&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenkiy&layout=compact&theme=radical&hide_border=false" width="48%" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yarenkiy&theme=radical&hide_border=false" width="50%" />
-</p>
+<p align="center"><em>Languages I’ve used most across my public repositories (Python included!)</em></p>
 
 ---
 
