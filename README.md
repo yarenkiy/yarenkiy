@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaren</h1>
-<h3 align="center">💻 Computer Engineer | Backend & Full-Stack Developer | Aspiring Data Scientist</h3>
+<h3 align="center">💻 Computer Engineer </h3>
 
 ---
 
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
-<p align="center"><em>Languages I’ve used most across my public repositories (Python included!)</em></p>
+<p align="center"><em>Languages I’ve used most across my public repositories </em></p>
 
 ---
 
@@ -69,6 +69,4 @@
 
 ---
 
-<p align="center">
-  <em>✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</em>
-</p>
+
